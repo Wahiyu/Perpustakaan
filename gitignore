@@ -1,0 +1,19 @@
+# Ignore class files
+*.class
+
+# Ignore NetBeans build files
+/build/
+/dist/
+/nbproject/private/
+
+# Ignore IDE config
+*.iml
+.idea/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore database credentials (optional)
+.env
